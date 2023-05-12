@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/restaurant/static/css/main.0b1ed438.css",
+    "main.js": "/restaurant/static/js/main.a4a86fa5.js",
+    "index.html": "/restaurant/index.html",
+    "main.0b1ed438.css.map": "/restaurant/static/css/main.0b1ed438.css.map",
+    "main.a4a86fa5.js.map": "/restaurant/static/js/main.a4a86fa5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b1ed438.css",
+    "static/js/main.a4a86fa5.js"
+  ]
+}
